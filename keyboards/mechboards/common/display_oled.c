@@ -219,7 +219,7 @@ const char *layer_string(uint32_t layer) {
             layer_str = "Three\0";
             break;
         case 4:
-            layer_str = "Four\0";
+            layer_str = "Game\0";
             break;
         case 5:
             layer_str = "Five\0";
